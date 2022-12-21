@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
-![Jeeyey GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Jeeyey GitHub stats](https://github-readme-stats.vercel.app/api?username=jeeyey&show_icons=true&theme=radical)
 
 ### Linguagens que eu programo:
 
